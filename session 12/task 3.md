@@ -1,7 +1,7 @@
 # AWS 
 ### AWS or Amazon Web Services in other words is a huge and used cloud computing platform that provides us with a lot of services. 
 ### It presents services in various fields like cloud services, including computing power, storage, databases, machine learning, analytics, networking, security, ### and more.
-Here are some of the services that AWS offers:
+### Here are some of the services that AWS offers:
 ## 1- Compute Services:
 -**Amazon EC2 (Elastic Compute Cloud):** Provides resizable compute capacity in the cloud, allowing users to run virtual servers (instances) for various applications.
 -**AWS Lambda:** A serverless computing service that lets you run your code without provisioning or managing servers.
