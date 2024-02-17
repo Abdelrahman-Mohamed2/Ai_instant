@@ -3,7 +3,8 @@
 ### It presents services in various fields like cloud services, including computing power, storage, databases, machine learning, analytics, networking, security, ### and more.
 ### Here are some of the services that AWS offers:
 ## 1- Compute Services:
--**Amazon EC2 (Elastic Compute Cloud):** Provides resizable compute capacity in the cloud, allowing users to run virtual servers (instances) for various applications.
+-**Amazon EC2 (Elastic Compute Cloud):** Provides resizable compute capacity in the cloud, allowing users to run virtual servers (instances) for various 
+applications.
 -**AWS Lambda:** A serverless computing service that lets you run your code without provisioning or managing servers.
 
 ## 2- Storage Services:
@@ -12,7 +13,8 @@
 -**Amazon Glacier:** A low-cost storage service for data archiving and long-term backup.
 
 ## 3- Database Services:
--**Amazon RDS (Relational Database Service):** Managed relational database service supporting various database engines like MySQL, PostgreSQL, Oracle, and SQL Server.
+-**Amazon RDS (Relational Database Service):** Managed relational database service supporting various database engines like MySQL, PostgreSQL, Oracle, and SQL 
+Server.
 -**Amazon DynamoDB:** A NoSQL database service for fast and predictable performance with seamless scalability.
 
 
