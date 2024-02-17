@@ -15,7 +15,7 @@ applications.
 ## 3- Database Services:
 - ** Amazon RDS (Relational Database Service):** Managed relational database service supporting various database engines like MySQL, PostgreSQL, Oracle, and SQL 
 Server.
-- ** Amazon DynamoDB:** A NoSQL database service for fast and predictable performance with seamless scalability.
+- ** Amazon DynamoDB: ** A NoSQL database service for fast and predictable performance with seamless scalability.
 
 
 ## 4- Machine Learning and AI Services:
