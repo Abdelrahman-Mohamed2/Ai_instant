@@ -4,7 +4,7 @@
 ## 2- Regression Analysis:
 - Field: Economics
 - Use: Identify relationships between variables, such as income and spending patterns.
-## 3- Analysis of Variane (ANOVA):
+## 3- Analysis of Variance (ANOVA):
 - Field: Education
 - Use: Assess significant differences in academic performance among students taught with different methods.
 ## 4- Chi-square Test:
