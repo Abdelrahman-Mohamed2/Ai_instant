@@ -7,28 +7,28 @@ It's vital to grasp the type of data before employing statistical tools, as the 
 
 ## Continous data
 ### Normal Distribution:
-A symmetric bell-shaped probability distribution is characterized by its mean and standard deviation. In a normal distribution, the majority of data falls within one or two standard deviations from the mean.
+- A symmetric bell-shaped probability distribution is characterized by its mean and standard deviation. In a normal distribution, the majority of data falls within one or two standard deviations from the mean.
 
 ### Lognormal Distribution:
-A distribution of a random variable whose logarithm is normally distributed. It is often used to model the distribution of stock prices and other financial variables.
+- A distribution of a random variable whose logarithm is normally distributed. It is often used to model the distribution of stock prices and other financial variables.
 
 ### F Distribution:
-A probability distribution that arises in the context of statistical hypothesis testing. It is used in the analysis of variance (ANOVA) and regression analysis.
+- A probability distribution that arises in the context of statistical hypothesis testing. It is used in the analysis of variance (ANOVA) and regression analysis.
 
 ### Chi-Square Distribution:
-A probability distribution is used in statistical hypothesis testing, particularly in chi-square tests for independence and goodness of fit.
+- A probability distribution is used in statistical hypothesis testing, particularly in chi-square tests for independence and goodness of fit.
 
 ### Exponential Distribution:
-A probability distribution is often used to model the time between events in a Poisson process, where events occur continuously and independently at a constant average rate.
+- A probability distribution is often used to model the time between events in a Poisson process, where events occur continuously and independently at a constant average rate.
 
 ### T Student Distribution:
-A probability distribution arises in the context of estimating the mean of a normally distributed population when the sample size is small. Widely used in t-tests.
+- A probability distribution arises in the context of estimating the mean of a normally distributed population when the sample size is small. Widely used in t-tests.
 
 ### Weibull Distribution:
-A probability distribution commonly used in reliability engineering to model the time until a failure occurs. It can take various shapes, including exponential and normal distributions.
+- A probability distribution commonly used in reliability engineering to model the time until a failure occurs. It can take various shapes, including exponential and normal distributions.
 
 ### Non-normal Distributions:
-A general term referring to any distribution that does not follow a normal distribution. Many real-world datasets exhibit non-normal distributions.
+- A general term referring to any distribution that does not follow a normal distribution. Many real-world datasets exhibit non-normal distributions.
 
 ## Discrete data
 ### Binomial Distribution:
